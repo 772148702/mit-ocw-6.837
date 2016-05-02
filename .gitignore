@@ -1,0 +1,9 @@
+*.o
+*.obj
+*.log
+*.tlog
+*.bak
+*.exe
+*.stackdump
+*.dump
+
